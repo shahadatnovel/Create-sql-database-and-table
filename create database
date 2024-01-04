@@ -1,0 +1,12 @@
+//first i will create a database. you have to write any database name.
+CREATE DATABASE name;
+//than create table
+CREATE TABLE name(
+ID int null,
+FirstName varchar(255),
+Email varchar (255),
+password varchar(255),
+confromPassword varchar(255),
+phoneNumber int(50),
+);
+//you habe to need anything information add.
